@@ -1895,11 +1895,11 @@ header .global-nav__sns a:last-child {
       padding: 70px 0;
   }
 }
-/* @media only screen and (max-width: 467px){
+@media only screen and (max-width: 467px){
   .section-parallax-block {
     display: none;
 } 
-}*/
+}
 
 .big-image {
   background-image: url('../img/Perspective-2.jpg');
