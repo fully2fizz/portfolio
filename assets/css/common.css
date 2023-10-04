@@ -896,6 +896,12 @@ header.js-color a {
   background-size: cover;
 }
 
+.page-top .image__mob {
+  background: url(../img/edufly.jpg) no-repeat center;
+  background-size: cover;
+}
+
+
 .page-top .image__about {
   background: url(../img/about.jpg) no-repeat center;
   background-size: cover;
@@ -1616,6 +1622,11 @@ header .global-nav__sns a:last-child {
   background-size: cover;
 }
 
+.image--mobile {
+  background: url(../img/edufly.jpg) no-repeat center;
+  background-size: cover;
+}
+
 .image--about {
   background: url(../img/about.jpg) no-repeat center;
   background-size: cover;
@@ -1903,6 +1914,10 @@ header .global-nav__sns a:last-child {
 
 .big-image {
   background-image: url('../img/Perspective-2.jpg');
+  background-position: center;
+}
+.big-image-2 {
+  background-image: url('../img/apps-mock.jpg');
   background-position: center;
 }
 .parallax {
